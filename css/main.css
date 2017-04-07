@@ -1,0 +1,18 @@
+html {
+  font-family: Merriweather, serif;
+}
+
+table {
+  border: 1px solid #ccc;
+}
+
+th {
+  border-right: 1px solid #ccc;
+  border-bottom: 1px solid #ccc;
+}
+
+td {
+  border-right: 1px solid #ccc;
+  border-bottom: 1px solid #ccc;
+  height: 9.8rem;
+}
